@@ -38,9 +38,9 @@ docker-compose -f tests/e2e/docker-compose.yml up -d
 jupiter run -c cmd/exampleserver/.jupiter.toml
 ```
 
-More Example:
-
-- [Project Layout](https://github.com/douyu/jupiter-layout)
+## Learn More:
+- [Juno](https://github.com/douyu/juno): **Microservice Governance System** for jupiter
+- [Jupiter Layout](https://github.com/douyu/jupiter-layout): **Project Template** for jupiter
 - [Examples](https://github.com/douyu/jupiter-examples)
 
 ## Bugs and Feedback
